@@ -1,4 +1,4 @@
-import cv2
+import cv2#library
 
 def decode_message(image_path, password, correct_password):
     if password != correct_password:
