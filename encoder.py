@@ -1,4 +1,4 @@
-import cv2
+import cv2#library
 import os
 
 def encode_message(image_path, message, password):
