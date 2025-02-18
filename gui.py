@@ -1,4 +1,4 @@
-import tkinter as tk
+import tkinter as tk#lbrary
 from tkinter import filedialog, messagebox
 import encoder
 import decoder
